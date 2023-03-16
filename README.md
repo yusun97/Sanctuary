@@ -17,8 +17,7 @@ The Jungle Friends Primate Sanctuary provides a permanent home and high-quality 
 - Produce an alphabetical list (by name) of all of the monkeys housed in the Sanctuary.
 
 # Run the program using JAR
-JAVA 11 needed
-Use the JAR file in res folder
+JAVA 11 needed and please Use the JAR file in res folder
 Here is the JAR instruction https://www.jetbrains.com/help/idea/compiling-applications.html#run_packaged_jar
 - Create a run configuration
 - Execute the run configuration
