@@ -17,10 +17,11 @@ The Jungle Friends Primate Sanctuary provides a permanent home and high-quality 
 - Produce an alphabetical list (by name) of all of the monkeys housed in the Sanctuary.
 
 # Run the program using JAR
+JAVA 11 needed
+Use the JAR file in res folder
 Here is the JAR instruction https://www.jetbrains.com/help/idea/compiling-applications.html#run_packaged_jar
 - Create a run configuration
 - Execute the run configuration
-- Note: In the first step, "Under Before launch, click the Add button, select Build Artifacts in the dialog that opens." The dialog is empty, but it doesn't matter. Skip this step and click "Apply", it will work as expected.
 
 # How to interact with the program
 There are three tabs: Create Monkeys, Move Monkeys, and Print Monkeys.
@@ -28,11 +29,6 @@ There are three tabs: Create Monkeys, Move Monkeys, and Print Monkeys.
 - Move Monkeys: enter the name of the monkey to move it to different places or treat this monkey.
 - Print Monkeys: print a list of a given enclosure or a list of all monkeys in the Sanctuary.
 - Exit: click the exit button to exit the whole program
-
-# Changes of design
-- add view and controller class
-- change some classes in the model package
-- Note: Please compare the new UML and original UML of the model in the res folder to see what changes in the model package
 
 # Assumptions
 - There are only three kinds of Size: small, medium, and large
