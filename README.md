@@ -25,8 +25,21 @@ Here is the JAR instruction https://www.jetbrains.com/help/idea/compiling-applic
 # How to interact with the program
 There are three tabs: Create Monkeys, Move Monkeys, and Print Monkeys.
 - Create Monkeys: enter all information needed to create a new monkey.
+<img width="1122" alt="Screen Shot 2023-03-15 at 7 13 32 PM" src="https://user-images.githubusercontent.com/113145079/225494030-6dcc44b5-443f-4123-9437-41190f63cfe7.png">
+Enter key information of the monkeys, then click the button to create a new monkey.
+Once successful, there will be an message shown.
+<img width="446" alt="Screen Shot 2023-03-15 at 7 13 52 PM" src="https://user-images.githubusercontent.com/113145079/225494208-f7d7e998-4e74-4435-baa0-f0cb167d2bb0.png">
 - Move Monkeys: enter the name of the monkey to move it to different places or treat this monkey.
+<img width="1005" alt="Screen Shot 2023-03-15 at 7 15 50 PM" src="https://user-images.githubusercontent.com/113145079/225494283-824d59b6-bbf7-43a8-92f2-75d22dace03e.png">
+The moved monkey should be healthy
+<img width="595" alt="Screen Shot 2023-03-15 at 7 16 08 PM" src="https://user-images.githubusercontent.com/113145079/225494438-ac3ba246-a2fc-4ede-a0c6-2168df2604c2.png">
+if not, please treat it before move it
+<img width="430" alt="Screen Shot 2023-03-15 at 7 16 19 PM" src="https://user-images.githubusercontent.com/113145079/225494530-97ba56fb-fa75-4d4e-8cf0-8fabc2794d22.png">
 - Print Monkeys: print a list of a given enclosure or a list of all monkeys in the Sanctuary.
+monkeys in the given enclosure
+<img width="1005" alt="Screen Shot 2023-03-15 at 7 16 52 PM" src="https://user-images.githubusercontent.com/113145079/225494640-11e17b9e-4f1d-4775-a7af-5b3e39b6ce7c.png">
+all monkeys in the sanctuary
+<img width="374" alt="Screen Shot 2023-03-15 at 7 17 02 PM" src="https://user-images.githubusercontent.com/113145079/225494694-884a8c4e-38aa-4da5-a0ff-78be1136e05a.png">
 - Exit: click the exit button to exit the whole program
 
 # Assumptions
